@@ -1,6 +1,6 @@
 # THREADS
 
-Process: A program under execution.
+Process: A running program with which a particular set of data is associated so that the process can be kept track of.
 Thread : A basic unit of execution or a basic unit of CPU utilization.
 
 Each program may have a number of processes associated with it.
